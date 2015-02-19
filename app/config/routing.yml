@@ -1,0 +1,4 @@
+abc:
+    resource: "@AbcBundle/Controller/"
+    type:     annotation
+    prefix:   /
